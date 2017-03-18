@@ -3,8 +3,8 @@ A simple OCR using Opencv + Tesseract.
 
 ## Instructions (Windows)
 - Install Tesseract (make sure you select 'add to path' in installer.
-- Get OpenCV binaries from https://github.com/cesardelgadof/OpenCVBinaries (works with VS2015/2017)
-- Create new empty cpp proj, add source file to project
+- Get OpenCV binaries from https://github.com/cesardelgadof/OpenCVBinaries (works with VS2015/2017).
+- Create new empty cpp proj, add source file to project.
 - Add opencv include dir in `Project Properties > C/C++ > Additional Include Directories`.
 - Add opencv lib dir in `Project Properties > Linker > General > Additional Library Directories`.
 - Add opencv lib dir in `Project Properties > Linker > General > Additional Library Directories`.
