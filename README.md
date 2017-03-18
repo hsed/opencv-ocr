@@ -7,7 +7,6 @@ A simple OCR using Opencv + Tesseract.
 - Create new empty cpp proj, add source file to project.
 - Add opencv include dir in `Project Properties > C/C++ > Additional Include Directories`.
 - Add opencv lib dir in `Project Properties > Linker > General > Additional Library Directories`.
-- Add opencv lib dir in `Project Properties > Linker > General > Additional Library Directories`.
 - Add opencv lib files:
   - Goto opencv lib folder.
   - Open cmd, type `dir /b *d.lib > libs.txt` (this is for debug mode libs).
